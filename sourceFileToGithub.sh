@@ -7,4 +7,4 @@ git init
 git add -A
 git commit -m 'update version'
 
-git push -f git@github.com:ZhangYangLizzm/blog.git master:main
+git push -f git@github.com:ZhangYangLizzm/Turi-Blog.git master:main
