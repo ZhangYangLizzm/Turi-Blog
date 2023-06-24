@@ -31,10 +31,10 @@ module.exports = {
           children: ['/Plugins/Vue3_Plugins'],
           collapsible: true,
         },
-        // {
-        //   text: 'React',
-        //   children:['/Plugins/React_Plugins'],
-        // },
+        {
+          text: 'React',
+          children:['/Plugins/React_Plugins'],
+        },
         {
           text: 'Vite',
           children: ['/Plugins/Vite_Plugins'],
