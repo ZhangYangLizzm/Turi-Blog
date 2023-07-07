@@ -11,8 +11,8 @@ module.exports = {
     activeHeaderLinks: false, // 默认值：true,活动的标题链接
     navbar: [
       // 导航条相关配置
-      { text: "首页", link: "/" },
-      { text: "面试", link: "/Interview" },
+      { text: "Home", link: "/" },
+      { text: "Interview", link: "/Interview" },
       { text: "TypeScript", link: "/TypeScript" },
       { text: "Git", link: "/Git" },
       { text: "Node.js", link: "/Node.Js" },

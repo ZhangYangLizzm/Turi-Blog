@@ -3,8 +3,8 @@ home: true
 heroText: Turi's Blog
 tagline: By Turi
 actions:
-  - text: Vite
-    link: /Vite/
+  - text: InterView
+    link: /Interview/
   - text: Plugins
     link: /Plugins/Vue3_Plugins
   - text:  Nginx
