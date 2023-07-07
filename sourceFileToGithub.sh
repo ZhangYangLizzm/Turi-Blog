@@ -7,6 +7,6 @@ git init
 git add -A
 git commit -m 'update version'
 
-git push -f git@github.com:ZhangYangLizzm/Turi-Blog.git master:main
+git push git@github.com:ZhangYangLizzm/Turi-Blog.git master:main
 
 sh deploy.sh
